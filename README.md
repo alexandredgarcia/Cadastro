@@ -52,8 +52,12 @@ Sua Opção: 1
 ------------------------------
       PESSOAS CADASTRADAS     
 ------------------------------
-Ana Paula           32 anos
-Carlos Eduardo      28 anos
+Anibal              70 anos
+Maria               70 anos
+Alexandre           47 anos
+Renata              45 anos
+Rosangela           46 anos
+
 ```
 
 ---
