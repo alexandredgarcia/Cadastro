@@ -11,11 +11,15 @@ Projeto desenvolvido em Python para simular um sistema simples de cadastro de pe
 - **Novo Cadastro:** Entrada de dados tratada (validação de nome e idade) com salvamento no arquivo.
 - **Menu Interativo:** Interface via terminal amigável e com validação de opções.
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3**
 - **Módulo `time`** (nativo do Python)
 - **Manipulação de Arquivos e Módulos/Pacotes customizados**
+
+---
 
 ## 📂 Estrutura do Projeto
 
