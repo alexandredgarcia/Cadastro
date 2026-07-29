@@ -13,6 +13,7 @@ Projeto desenvolvido em Python para simular um sistema simples de cadastro de pe
 
 ---
 
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3**
