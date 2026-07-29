@@ -1,0 +1,5 @@
+Anibal;70
+Maria;70
+Alexandre;47
+Renata;45
+Rosangela;46
