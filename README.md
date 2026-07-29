@@ -54,6 +54,7 @@ Sua Opção: 1
 ------------------------------
 Ana Paula           32 anos
 Carlos Eduardo      28 anos
+```
 
 ---
 
