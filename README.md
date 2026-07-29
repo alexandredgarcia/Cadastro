@@ -43,9 +43,9 @@ Sua Opção: 1
 ------------------------------
 Ana Paula           32 anos
 Carlos Eduardo      28 anos
-<hr>
 
-##👨‍💻 **Sobre o desenvolvedor**
+--
+👨‍💻 **Sobre o desenvolvedor**
 Projeto criado por um aspirante a desenvolvedor Python, com foco em evolução contínua, boas práticas e construção de portfólio.
 
 --
