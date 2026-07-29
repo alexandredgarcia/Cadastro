@@ -51,5 +51,5 @@ while True:
             else:
                 # Trata opções fora do intervalo (1, 2 ou 3)
                 print('\033[31mErro! Digite uma opção válida!\033[m')
-    # Pausa de 1 segundo para melhorar a experiência do usuário 
+    # Pausa de 1 segundo para melhorar a experiência do usuário
     sleep(1)
