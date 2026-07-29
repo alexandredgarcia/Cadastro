@@ -27,7 +27,7 @@ Projeto desenvolvido em Python para simular um sistema simples de cadastro de pe
         └── telacadastro.py  # Funções para validação e cadastro
 <hr>
 
-👨‍💻 **Sobre o desenvolvedor**
+##👨‍💻 **Sobre o desenvolvedor**
 Projeto criado por um aspirante a desenvolvedor Python, com foco em evolução contínua, boas práticas e construção de portfólio.
 
 <hr>
