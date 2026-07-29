@@ -2,6 +2,8 @@
 
 Projeto desenvolvido em Python para simular um sistema simples de cadastro de pessoas com persistência de dados em arquivo de texto (`.txt`).
 
+---
+
 ## 🚀 Funcionalidades
 
 - **Verificação de Arquivo:** Checa automaticamente se o banco de dados (`cadastro.txt`) existe e o cria se necessário.
