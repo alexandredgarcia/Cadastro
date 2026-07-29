@@ -36,7 +36,6 @@ Projeto desenvolvido em Python para simular um sistema simples de cadastro de pe
 
 ---
 
-
 ## 💻 Prévia do Sistema
 
 ```text
