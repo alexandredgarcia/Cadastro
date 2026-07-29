@@ -33,7 +33,9 @@ Projeto desenvolvido em Python para simular um sistema simples de cadastro de pe
         ├── interface.py     # Funções de layout e leitura de números
         ├── telaconsulta.py  # Funções de manipulação do arquivo .txt
         └── telacadastro.py  # Funções para validação e cadastro
+
 ---
+
 ## 💻 Prévia do Sistema
 
 ```text
