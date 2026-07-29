@@ -1,4 +1,4 @@
-# 📋 Sistema de Cadastro de Pessoas (Desafio 115 - Python)
+# 📋 Sistema de Cadastro de Pessoas 
 
 Projeto desenvolvido em Python para simular um sistema simples de cadastro de pessoas com persistência de dados em arquivo de texto (`.txt`).
 
