@@ -22,6 +22,7 @@ Projeto desenvolvido em Python para simular um sistema simples de cadastro de pe
 
 ---
 
+
 ## 📂 Estrutura do Projeto
 
 ```text
