@@ -25,3 +25,15 @@ Projeto desenvolvido em Python para simular um sistema simples de cadastro de pe
         ├── interface.py     # Funções de layout e leitura de números
         ├── telaconsulta.py  # Funções de manipulação do arquivo .txt
         └── telacadastro.py  # Funções para validação e cadastro
+
+<hr>
+
+👨‍💻 **Sobre o desenvolvedor**
+Projeto criado por um aspirante a desenvolvedor Python, com foco em evolução contínua, boas práticas e construção de portfólio.
+
+<hr>
+
+🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
+
+📧 alexandredgarcia23@gmail.com
+   
